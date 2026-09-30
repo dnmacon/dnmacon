@@ -1,5 +1,3 @@
-## Dan Macon
-
 Two decades across applications, infrastructure, cloud architecture, and security. Currently researching model harness design and the failure modes that appear when models are given authority over real infrastructure.
 
 I work in the open at [alignment.farm](https://alignment.farm) and in [alignment-farm](https://github.com/alignment-farm) and [stack-research](https://github.com/stack-research).
