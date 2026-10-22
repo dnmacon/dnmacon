@@ -15,19 +15,24 @@ I work in the open at [alignment.farm](https://alignment.farm) and in [alignment
 
 ### Background
 
-Independent software engineer and former CTO. Experience in building systems, owning production infrastructure, security, architecture, technical leadership, and self-directed experimental work.
+Engineering consultant and former CTO. Experience in building systems, owning production infrastructure, security, architecture, technical leadership, and self-directed experimental work.
+- Agent memory and evaluation
+- Applied model systems
+- Cloud infrastructure and legacy modernization
+
+---
 
 #### ATS Soup
 
-**Languages.** Python, TypeScript, Go, Ruby, SQL, Bash.
+**Languages:** Python, TypeScript, Go, Ruby, SQL, Bash.
 
-**Applied models.** LLM integration, retrieval-augmented generation (RAG), structured generation, context engineering, agent and tool workflows, model harnesses, persistent agent memory, PyTorch, LoRA fine-tuning, reinforcement learning from verifiable rewards, evaluation harnesses, experiment tracking.
+**Applied models:** LLM integration, retrieval-augmented generation (RAG), structured generation, context engineering, agent and tool workflows, model harnesses, persistent agent memory, PyTorch, LoRA fine-tuning, reinforcement learning from verifiable rewards, evaluation harnesses, experiment tracking.
 
-**Data and infrastructure.** Ruby on Rails, Spark, Beam, Dask, Ray, Parquet, PostgreSQL, MySQL, Redis, NoSQL, vector data modeling, streaming pipelines, fault isolation, Docker, Kubernetes, AWS (CDK v2, CloudFormation, Terraform), Azure, OpenTelemetry, distributed tracing.
+**Data and infrastructure:** Ruby on Rails, Spark, Beam, Dask, Ray, Parquet, PostgreSQL, MySQL, Redis, NoSQL, vector data modeling, streaming pipelines, fault isolation, Docker, Kubernetes, AWS (CDK v2, CloudFormation, Terraform), Azure, OpenTelemetry, distributed tracing.
 
-**Security.** Application and cloud security, threat modeling, penetration testing, sandboxed execution (gVisor, Firecracker), tool permissions, auditable workspaces, zero trust, secrets management, SOC 2, HITRUST.
+**Security:** Application and cloud security, threat modeling, penetration testing, sandboxed execution (gVisor, Firecracker), tool permissions, auditable workspaces, zero trust, secrets management, SOC 2, HITRUST.
 
-**Architecture.** System and API design, event-driven and service-oriented systems, incremental legacy migration,
+**Architecture:** System and API design, event-driven and service-oriented systems, incremental legacy migration,
 dependency decomposition, technical risk assessment, technical writing.
 
 **Certified:** [AWS Generative AI Developer (Professional)](https://www.credly.com/badges/963321dd-5a52-4e2f-a8be-411543b9311d/public_url)
